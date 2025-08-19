@@ -81,7 +81,7 @@ body {
 }
 
 #particles-js canvas {
-    filter: drop-shadow(0 0 6px #1f6feb) drop-shadow(0 0 8px rgba(3, 70, 255, 0.4)) drop-shadow(0 0 5px rgba(89, 3, 250, 0.3));
+    filter: drop-shadow(0 0 6px #04580e) drop-shadow(0 0 8px rgba(11, 162, 69, 0.4)) drop-shadow(0 0 5px rgba(5, 74, 29, 0.3));
 }
 
 .intro-content {
